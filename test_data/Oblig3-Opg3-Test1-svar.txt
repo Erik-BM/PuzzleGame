@@ -1,0 +1,5 @@
+1 2 0
+4 6 3
+7 5 8
+Solution: 4, DLDR
+States seen: 9

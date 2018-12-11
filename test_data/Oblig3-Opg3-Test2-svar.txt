@@ -1,0 +1,6 @@
+1 0 5
+4 3 2 
+7 8 6
+Solution: 7, DRULDRD
+States seen: 25
+
